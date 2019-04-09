@@ -1,0 +1,27 @@
+Case,self_income,spouse_income,spouse_expected_standard_tax,marital_status
+No Husband Income & No Wife Income,0,0,0,m
+Low Husband Income & No Wife Income,2022000,0,0,m
+Middle Husband Income & No Wife Income,3144000,0,0,m
+High Husband Income & No Wife Income,9999999,0,0,m
+No Husband Income & Low Wife Income,0,2022000,300600,m
+Low Husband Income & Low Wife Income,2022000,2022000,300600,m
+Middle Husband Income & Low Wife Income,3144000,2022000,300600,m
+High Husband Income & Low Wife Income,9999999,2022000,300600,m
+No Husband Income & Middle Wife Income,0,3144000,468900,m
+Low Husband Income & Middle Wife Income,2022000,3144000,468900,m
+Middle Husband Income & Middle Wife Income,3144000,3144000,468900,m
+High Husband Income & Middle Wife Income,9999999,3144000,468900,m
+No Husband Income & High Wife Income,0,9999999,1497299,m
+Low Husband Income & High Wife Income,2022000,9999999,1497299,m
+Middle Husband Income & High Wife Income,3144000,9999999,1497299,m
+High Husband Income & High Wife Income,9999999,9999999,1497299,m
+Poor Husband Income & No Wife Income,180000,0,0,m
+Poor Husband Income & Poor Wife Income,180000,180000,25650,m
+Poor Husband Income & Low Wife Income,180000,2022000,300600,m
+Poor Husband Income & Middle Wife Income,180000,3144000,468900,m
+Poor Husband Income & High Wife Income,180000,9999999,1497299,m
+No Husband Income & Poor Wife Income,0,180000,25650,m
+Poor Husband Income & Poor Wife Income,180000,180000,25650,m
+Low Husband Income & Poor Wife Income,2022000,180000,25650,m
+Middle Husband Income & Poor Wife Income,3144000,180000,25650,m
+High Husband Income & Poor Wife Income,9999999,180000,25650,m
